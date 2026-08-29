@@ -98,8 +98,12 @@ X-API-Version: 1.0
 
 ### Validaciones
 
-Aquí se agregarán las capturas de las validaciones y errores.
+![alt text](IMG/cap11.png)
+![alt text](IMG/cap12.png)
 
+### Video explicativo
+
+https://youtu.be/Hp2yHmV1nTE
 
 ## 👨‍💻 Autor
 
